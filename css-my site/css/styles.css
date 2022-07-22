@@ -1,0 +1,156 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Acme', sans-serif;
+  font-size: 1em;
+}
+h1 {
+  margin: 0;
+  font-family: 'Arizonia', cursive;
+  font-weight: 100;
+  font-size: 5rem;
+  color: #C19065;
+  line-height: 2;
+}
+h2 {
+  font-family: 'Marcellus', serif;
+  font-size: 2.5rem;
+  color: #A27B5C;
+  font-weight: normal;
+  padding: 10px;
+}
+h3 {
+  font-family: 'Marcellus', serif;
+  color: #A27B5C;
+}
+
+a {
+  color: #5C3D2E;
+  text-decoration: none;
+}
+a:hover {
+  color: #2C3639;
+}
+
+p {
+  line-height: 2;
+  color: #DCD7C9;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+}
+
+hr {
+  border-style: dotted none none;
+  width: 5%;
+  border-width: 5px;
+  border-color: #393E46;
+  margin: 100px auto;
+}
+
+
+.top-container {
+  background-color: #3F4E4F;
+  position: relative;
+  padding-top: 100px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.Hello-line {
+  width: 30%;
+  margin: auto;
+}
+
+.i-host-class-line {
+  width: 30%;
+  margin: 40px auto 60px;
+}
+
+
+.middle-container {
+  background-color: #2C3639;
+  padding: 100px 0 100px 0;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+
+.bottom-container {
+  background-color: #DCD7C9;
+  line-height: 2;
+  padding: 30px 0 30px 0;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 200px;
+}
+
+.coding-language {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.cyber-security {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.i-provide{
+  margin-bottom: 200px;
+}
+
+.footer-link {
+  margin: 50px;
+}
+
+.contact-me {
+  line-height: 2;
+}
+
+.copyright {
+  padding-top: 20px;
+  color: #2C3639;
+  font-size: 0.65em;
+}
+
+.btn {
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 1px 3px #422a42;
+  -moz-box-shadow: 0px 1px 3px #422a42;
+  box-shadow: 0px 1px 3px #422a42;
+  font-family: 'Marcellus', serif;
+  color: #FCFFE7;
+  font-size: 20px;
+  background: #5C3D2E;
+  padding: 6px 16px 6px 16px;
+  border: none #665b62 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #A27B5C;
+  text-decoration: none;
+}
